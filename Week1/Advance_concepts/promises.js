@@ -102,3 +102,13 @@ Promise.any([gf2promise,gfpromise,gf3promise]).then(result=>{
     console.log("My valentine day is Boring");
 
 })
+
+/**
+ * Promise.all([p1,p2, p3])
+ * if any 1 rejects catch part executef
+ */
+
+/**
+ * Promise.any([p1,p2, p3])
+ * if any all rejects catch part executef
+ */
