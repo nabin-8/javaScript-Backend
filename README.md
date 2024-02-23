@@ -1,6 +1,6 @@
 # javaScript-Backend
 
-### Introduction
+## Introduction
 
 1. Introduction to the course
 1. Introduction to backend web development
@@ -9,7 +9,7 @@
 
 
 
-### Fundamentals of JavaScript
+## Fundamentals of JavaScript
 
 1. Introduction & Installation of NodeJS
 1. Introduction to JavaScript
@@ -34,9 +34,9 @@
 1. Error Handling
 1. Mini-Project 01: Attendance Management System
 
----
 
-### Node JS & Mongo
+
+## Node JS & Mongo
 
 1. Introduction to nodejs
 1. Modules & Packages
@@ -48,9 +48,9 @@
 1. MongoDB Queries
 1. Mongoose
 
----
 
-### Mini Project 02: TODO App
+
+## Mini Project 02: TODO App
 
 1. Introduction to the project
 1. Setting up the project
@@ -60,8 +60,8 @@
 1. Testing APIs on Postman
 1. Final project demo
 
----
-### Introduction to express js
+
+## Introduction to express js
 
 1. Limitations of NodeJS
 1. REST APIs
@@ -71,9 +71,9 @@
 1. Understanding the components of express app
 
 
----
 
-### Building application with express: E-commerce app / T-Shirt Store
+
+## Building application with express: E-commerce app / T-Shirt Store
 
 1. Introduction to the project
 1. Setting up the project
