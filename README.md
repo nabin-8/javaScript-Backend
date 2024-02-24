@@ -47,7 +47,7 @@
 1. Setting up MongoDB
 1. MongoDB Queries
 1. Mongoose
-
+1. [MongoDB Note](./Week2/MongoDB/README.md)
 
 
 ## Mini Project 02: TODO App
