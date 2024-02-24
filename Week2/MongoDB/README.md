@@ -215,10 +215,8 @@ C(Distributing data on multiple machines)
  ```mermaid 
  flowchart LR
 
-    A(_id:objectid1)<--->B(_id:objectid1
-    _id:objectid100)
-    A<--->C(_id:objectid1
-    _id:objectid200)
+    A(_id:objectid1)<--->B(_id:objectid1 <br> _id:objectid100)
+    A<--->C(_id:objectid1 <br> _id:objectid200)
     
  
  ```
