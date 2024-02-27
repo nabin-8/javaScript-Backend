@@ -59,3 +59,51 @@
  1. npm install express 
  1. npm install jsonwebtoken
  1. npm install mongoose
+
+ ### Work on a project
+ 1. Models
+ 1. Controllers
+ 1. Routes 
+
+#### Creation
+ Creation of costumer should made with APIs
+ and admin creation internally
+
+## Database
+<pre>
+
+    test> show dbs;
+    admin       40.00 KiB
+    be_demodb  112.00 KiB
+    config      72.00 KiB
+    ecomm_db    80.00 KiB
+    local       40.00 KiB
+    newdb       72.00 KiB
+    test> use ecomm_db;
+    switched to db ecomm_db
+    ecomm_db> show collections;
+    users
+    ecomm_db> db.users.find()
+    [
+    {
+        _id: ObjectId('65ddaab4478ce043e2ea47d7'),
+        name: 'Nabin',
+        userId: 'admin',
+        password: '$2a$08$RWqfqoMypGAk5JD6uqESFefbqD54HbpuQB5i1AlwfrenrfNIi1yLO',
+        email: 'nabin@gmail.com',
+        userType: 'ADMIN',
+        createdAt: ISODate('2024-02-27T09:26:12.528Z'),
+        updatedAt: ISODate('2024-02-27T09:26:12.528Z')
+    }
+    ]
+
+</pre>
+
+## POSTMAN
+ - Postman is a google extension
+
+## Before Break
+1. Project structure
+1. Model user model
+1. created admin user
+1. create the api for user registration
