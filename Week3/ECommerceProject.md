@@ -101,9 +101,41 @@
 
 ## POSTMAN
  - Postman is a google extension
+ - It is used to test RESTful APIs
+ - Tests like POST, PUT, GET, DELETE
 
 ## Before Break
 1. Project structure
 1. Model user model
 1. created admin user
 1. create the api for user registration
+
+### API
+ 1. User SignUp
+
+## PROJ Track
+ 1. Model is maid
+ 1. second Controller
+    1. create or register a user
+ 1. Routs
+ 1. connect this app to rout server
+
+#### Controller
+ 1. clint requestobject -> APP
+ 1. APP responseobject ->clint
+ 1. Logic to create the user
+    1. Read the request body
+    1. Insert the data in the User collection in MongoDB
+    1. Return the response back to the user
+ 1. status code
+    1. 201 succesfully created
+    1. 500 internal server error
+
+#### Rout
+ 1. Rout is the layer which intercept the request
+
+
+ ### Express Server
+ 1. req->express server
+ 1. app is the main player
+ 1. req->app->route->controller->model
