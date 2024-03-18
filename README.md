@@ -1,13 +1,9 @@
 # javaScript-Backend
 
 ## Introduction
-
-1. Introduction to the course
 1. Introduction to backend web development
 1. Applications & Oppurtunities
 1. Project Overview: Projects we will be building throughout the course
-
-
 
 ## Fundamentals of JavaScript
 
